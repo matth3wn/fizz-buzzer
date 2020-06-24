@@ -17,6 +17,12 @@ seconds, the application should display fizzbuzz.
 ### `To run tests:`  
 ```npm test```
 
+### `Demo:`. 
+[Live Application](https://5ef33d2c1889b0338eb98d29--stupefied-austin-f35623.netlify.app/). 
+
+### Tech Stack:  
+React, react router, deployed on Netlify
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
